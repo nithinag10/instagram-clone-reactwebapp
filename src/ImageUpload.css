@@ -1,0 +1,16 @@
+.image_upload {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  border-top: 1px solid lightgray;
+}
+
+.image_progress {
+  width: 100%;
+}
